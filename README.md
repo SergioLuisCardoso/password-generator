@@ -11,7 +11,7 @@
 
 ## ⚙️ Funcionalidade
 
-- [x] Defina o número de caracteres para criação da senha através do seletor:
+- [x] Defina o número de caracteres, entre 5 e 25, para criação da senha através do seletor:
   - Clique no botão "Gerar Senha"
   - A senha gerada será exibira em um campo abaixo
   -  Ao clicar na senha que foi gerada, é possível salvá-la
@@ -21,7 +21,6 @@
 ---
 
 ## 💻 Tecnologias utilizadas
-
 
 * HTML
 * CSS
@@ -38,7 +37,7 @@ https://newestpasswordgenerator.netlify.app/
 
 ## 👨🏻‍💻 Desenvolvedor
 
-Idealizador do projeto:
+<!--Idealizador do projeto:-->
 
 <table>
   <tr>
